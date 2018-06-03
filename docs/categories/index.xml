@@ -2,13 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R-Ladies Brasil Blog</title>
-    <link>https://celrebello.github.io/testeRLBlog/categories/</link>
+    <link>https://rladiesrio.org/categories/</link>
     <description>Recent content in Categories on R-Ladies Brasil Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     
-	<atom:link href="https://celrebello.github.io/testeRLBlog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rladiesrio.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R  Releases</title>
+      <link>https://rladiesrio.org/categories/r--releases/</link>
+      <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rladiesrio.org/categories/r--releases/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -3,22 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://celrebello.github.io/testeRLBlog/archives/</loc>
+    <loc>https://rladiesrio.org/2018/05/como-r-ladies-come%C3%A7ou-no-brasil/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rladiesrio.org/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://celrebello.github.io/testeRLBlog/categories/</loc>
+    <loc>https://rladiesrio.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://celrebello.github.io/testeRLBlog/</loc>
+    <loc>https://rladiesrio.org/tags/gender-gap/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://celrebello.github.io/testeRLBlog/tags/</loc>
+    <loc>https://rladiesrio.org/post/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rladiesrio.org/categories/r--releases/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rladiesrio.org/tags/r-ladies/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rladiesrio.org/tags/r-ladies-rio/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rladiesrio.org/tags/r-language/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rladiesrio.org/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rladiesrio.org/tags/</loc>
+    <lastmod>2018-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
