@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R  Releases on R-Ladies Brasil Blog</title>
-    <link>https://rladiesrio.org/categories/r--releases/</link>
+    <link>http://rladiesrio.org/categories/r--releases/</link>
     <description>Recent content in R  Releases on R-Ladies Brasil Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 13 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rladiesrio.org/categories/r--releases/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://rladiesrio.org/categories/r--releases/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Como R-Ladies começou no Brasil</title>
-      <link>https://rladiesrio.org/2018/05/como-r-ladies-come%C3%A7ou-no-brasil/</link>
+      <link>http://rladiesrio.org/2018/05/como-r-ladies-come%C3%A7ou-no-brasil/</link>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rladiesrio.org/2018/05/como-r-ladies-come%C3%A7ou-no-brasil/</guid>
+      <guid>http://rladiesrio.org/2018/05/como-r-ladies-come%C3%A7ou-no-brasil/</guid>
       <description>&lt;p&gt;1° de janeiro de 2017 surgia R-Ladies Rio
 &lt;/p&gt;</description>
     </item>
